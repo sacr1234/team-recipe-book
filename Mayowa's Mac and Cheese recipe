@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mayowa's Mac and Cheese Recipe</title>
+</head>
+<body>
+    <h1>Mac and Cheese</h1>
+    <h2>By: Mayowa</h2>
+    
+    <h3>Ingredients:</h3>
+    <ul>
+        <li>1lb cavatappi pasta</li>
+        <li>8oz Chedder cheese</li>
+        <li>16oz Mozzerella cheese</li> 
+        <li>16oz Colby Jack cheese</li>
+        <li>2 cups Heavy cream</li>
+        <li>1 can of Evaporated milk</li>
+        <li>3tbs butter</li>
+        <li>1tbs Dijon mustard</li>
+        <li>Seasonings</li>
+    </ul>
+    
+    <h3>Instructions:</h3>
+    <ol>
+        <li>Step 1:Preheat oven to 350 degrees Fahrenheit. Grease a 9 x 13 inch baking dish</li>
+        <li>Step 2:Cook cavatappi according to package instructions. Drain and set aside.</li>
+         <li>Step 3:Combine all 3 shredded cheeses in a bowl and divide half into another bowl. Set aside.</li>
+         <li>Step 4:Combine garlic powder, smoked paprika, salt, and pepper in a small bowl. Divide in half and set aside.</li>
+         <li>Step 5:Melt butter in a large skillet over medium heat. Once melted, add half of the season mixture and flour. Stir until the mixture becomes paste-like, about 3-5 minutes. Add evaporated milk and whisk until thick. Add heavy cream and the rest of the seasoning mixture and mix until combined. Whisk in Dijon mustard until thick. Slowly add in half the cheese, allowing it to melt before adding more.</li>
+       <li>Step 6:Stir in cavatappi until coated with cheese sauce.</li>
+         <li>Step 7:Add a layer of cavatappi and then a layer of shredded cheese to prepared baking dish. Repeat layers</li>
+         <li>Step 8:Bake in preheated oven until cheese is melted and bubbly, about 25-30 min.</li>
+        <li>Step 9:Finish by broiling until top is golden brown, about 2 min.</li
+    </ol>
+    
+    <p>Cooking time: 40 minutes</p>
+    <p>Serves: 12 people</p>
+</body>
+</html>
