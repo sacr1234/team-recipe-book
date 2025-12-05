@@ -5,3 +5,8 @@
 | Game container boxes
 | Colors
 | Fonts
+
+* Added coin.js to contain only coin-flip logic:
+| selecting heads/tails
+| validating bet
+| producing result
