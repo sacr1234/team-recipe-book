@@ -51,24 +51,6 @@ git commit -m "Fix image tag placement and HTML structure - Zaigham"
 
 ---
 
-## STEP 2: Fix Filename Typo (5 minutes) - CRITICAL
-
-**Problem:** Kevin's recipe file has a comma instead of apostrophe: `kevin castillo,s burger recipe.html`
-
-**WHO SHOULD FIX:** Kevin Castillo
-
-**Fix:**
-```bash
-git mv "kevin castillo,s burger recipe.html" "kevin-castillo-burger-recipe.html"
-git commit -m "Fix filename - remove comma and use proper naming - Kevin"
-```
-
-**Then update index.html line 22:**
-```html
-<li><a href="kevin-castillo-burger-recipe.html">Kevin's Burger Recipe</a></li>
-```
-
----
 
 ## STEP 3: Fix All Spelling Errors (10 minutes)
 
@@ -110,18 +92,6 @@ git commit -m "Fix all spelling errors and improve recipe clarity - Zaigham"
 
 ---
 
-### Kevin's Burger Recipe - Spelling Error
-**WHO SHOULD FIX:** Kevin Castillo
-
-**Fix line 19:** "musturd" → "mustard"
-
-**Commit:**
-```bash
-git add kevin-castillo-burger-recipe.html
-git commit -m "Fix spelling error - mustard - Kevin"
-```
-
----
 
 ### Sean's Sandwich Recipe - Spelling Error
 **WHO SHOULD FIX:** Sean Acreus
