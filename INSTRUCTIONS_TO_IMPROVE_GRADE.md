@@ -11,23 +11,6 @@ Your recipe book has good content and images, but several HTML errors, typos, an
 
 ---
 
-### Sean's Sandwich Recipe - Spelling Error
-**WHO SHOULD FIX:** Sean Acreus
-
-**Errors to fix in `sacr_recipe.html`:**
-1. Line 10: "sandwhich" → "sandwich"
-2. Line 29: "persom" → "person"
-
-**Commit:**
-```bash
-git add sacr_recipe.html
-git commit -m "Fix spelling errors in sandwich recipe - Sean"
-```
-
----
-
-
----
 
 ## STEP 9: **LEON/UNKNOWN CONTRIBUTOR - YOU MUST PARTICIPATE** (30 minutes)
 
