@@ -49,30 +49,6 @@ git commit -m "Fix image tag placement and HTML structure - Zaigham"
 
 ---
 
-### Fix 2: Mayowa's Recipe - Missing Closing Tag
-**Problem:** Line 35 in `Mayowa's Mac and Cheese recipe.html` is missing the closing `>` on `</li`
-
-**WHO SHOULD FIX:** Mayowa
-
-**Fix:**
-Open `Mayowa's Mac and Cheese recipe.html` and fix line 35:
-
-**Current:**
-```html
-<li>Step 9:Finish by broiling until top is golden brown, about 2 min.</li
-```
-
-**Change to:**
-```html
-<li>Step 9:Finish by broiling until top is golden brown, about 2 min.</li>
-```
-
-**Commit:**
-```bash
-git add "Mayowa's Mac and Cheese recipe.html"
-git commit -m "Fix missing closing tag on line 35 - Mayowa"
-```
-
 ---
 
 ## STEP 2: Fix Filename Typo (5 minutes) - CRITICAL
